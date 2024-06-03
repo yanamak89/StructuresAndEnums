@@ -1,7 +1,7 @@
 namespace Task2;
 
 // Перелік доступних кольорів
-enum EnumColors
+enum ConsoleColorEnum
 {
     black = ConsoleColor.Black, 
     blue = ConsoleColor.Blue, 
